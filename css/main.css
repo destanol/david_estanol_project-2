@@ -77,6 +77,16 @@ article
     flex-direction: column;
 }
 
+#firstParagraph
+{
+    text-indent: 5%;
+}
+
+.paragraph
+{
+    text-indent: 5%;
+}
+
 article img
 {
     padding-top: 5%;
